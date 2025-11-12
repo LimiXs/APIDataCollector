@@ -1,2 +1,11 @@
-# APIDataCollector
-Simple Streamlit web app for collecting, viewing, and editing data from multiple APIs (like Clockify, Steam) in one place. Easy to customize for personal use.
+# Multi-API Data Collector
+
+An interactive Python app for collecting data from different external services (like Clockify, Steam) via their APIs, fast reviewing, editing, and saving the results.
+
+## Features
+
+- Request data from various APIs (Clockify, Steam, and others)
+- Convenient web UI built with Streamlit: buttons, fields, JSON output, data editing
+- Easily customizable for any service and data structure
+- Ready for integration with any database (implementation up to you)
+- Simple to set up and run
