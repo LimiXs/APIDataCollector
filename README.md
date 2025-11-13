@@ -1,6 +1,7 @@
 # Multi-API Data Collector
 
-An interactive Python app for collecting data from different external services (like Clockify, Steam) via their APIs, fast reviewing, editing, and saving the results.
+An interactive Python app for collecting data from different external services (like Clockify, Steam) via their APIs,
+fast reviewing, editing, and saving the results.
 
 ## Features
 
